@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1728064686475,
+      "tag": "0000_steady_rhino",
+      "breakpoints": true
+    }
+  ]
+}
